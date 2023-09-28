@@ -1,0 +1,252 @@
+---- OUTPUT (stdout) ----
+		Error: Error: Command failed: python3 /tmp/game#3#72769922-7a86-41d9-add0-911fae64ba5d-RWrpxQ/team#Amanda and the Cs.pyz serve 9002
+Something went wrong running your bot: [Errno 32] Broken pipe
+Traceback (most recent call last):
+  File "/tmp/game#3#72769922-7a86-41d9-add0-911fae64ba5d-RWrpxQ/team#Amanda and the Cs.pyz/main.py", line 255, in serve
+    client.write(response)
+  File "/tmp/game#3#72769922-7a86-41d9-add0-911fae64ba5d-RWrpxQ/team#Amanda and the Cs.pyz/network/client.py", line 41, in write
+    self.socket.sendall(str.encode(message + "\n"))
+BrokenPipeError: [Errno 32] Broken pipe
+Traceback (most recent call last):
+  File "/tmp/game#3#72769922-7a86-41d9-add0-911fae64ba5d-RWrpxQ/team#Amanda and the Cs.pyz/main.py", line 255, in serve
+  File "/tmp/game#3#72769922-7a86-41d9-add0-911fae64ba5d-RWrpxQ/team#Amanda and the Cs.pyz/network/client.py", line 41, in write
+BrokenPipeError: [Errno 32] Broken pipe
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/tmp/game#3#72769922-7a86-41d9-add0-911fae64ba5d-RWrpxQ/team#Amanda and the Cs.pyz/__main__.py", line 3, in <module>
+  File "/tmp/game#3#72769922-7a86-41d9-add0-911fae64ba5d-RWrpxQ/team#Amanda and the Cs.pyz/main.py", line 331, in main
+  File "/tmp/game#3#72769922-7a86-41d9-add0-911fae64ba5d-RWrpxQ/team#Amanda and the Cs.pyz/main.py", line 307, in serve
+  File "/tmp/game#3#72769922-7a86-41d9-add0-911fae64ba5d-RWrpxQ/team#Amanda and the Cs.pyz/network/client.py", line 41, in write
+BrokenPipeError: [Errno 32] Broken pipe
+
+		---- ERRORS (stderr) ----
+		Error: Command failed: python3 /tmp/game#3#72769922-7a86-41d9-add0-911fae64ba5d-RWrpxQ/team#Amanda and the Cs.pyz serve 9002
+Something went wrong running your bot: [Errno 32] Broken pipe
+Traceback (most recent call last):
+  File "/tmp/game#3#72769922-7a86-41d9-add0-911fae64ba5d-RWrpxQ/team#Amanda and the Cs.pyz/main.py", line 255, in serve
+    client.write(response)
+  File "/tmp/game#3#72769922-7a86-41d9-add0-911fae64ba5d-RWrpxQ/team#Amanda and the Cs.pyz/network/client.py", line 41, in write
+    self.socket.sendall(str.encode(message + "\n"))
+BrokenPipeError: [Errno 32] Broken pipe
+Traceback (most recent call last):
+  File "/tmp/game#3#72769922-7a86-41d9-add0-911fae64ba5d-RWrpxQ/team#Amanda and the Cs.pyz/main.py", line 255, in serve
+  File "/tmp/game#3#72769922-7a86-41d9-add0-911fae64ba5d-RWrpxQ/team#Amanda and the Cs.pyz/network/client.py", line 41, in write
+BrokenPipeError: [Errno 32] Broken pipe
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/tmp/game#3#72769922-7a86-41d9-add0-911fae64ba5d-RWrpxQ/team#Amanda and the Cs.pyz/__main__.py", line 3, in <module>
+  File "/tmp/game#3#72769922-7a86-41d9-add0-911fae64ba5d-RWrpxQ/team#Amanda and the Cs.pyz/main.py", line 331, in main
+  File "/tmp/game#3#72769922-7a86-41d9-add0-911fae64ba5d-RWrpxQ/team#Amanda and the Cs.pyz/main.py", line 307, in serve
+  File "/tmp/game#3#72769922-7a86-41d9-add0-911fae64ba5d-RWrpxQ/team#Amanda and the Cs.pyz/network/client.py", line 41, in write
+BrokenPipeError: [Errno 32] Broken pipe
+
+    at ChildProcess.exithandler (node:child_process:422:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1105:16)
+    at Socket.<anonymous> (node:internal/child_process:457:11)
+    at Socket.emit (node:events:514:28)
+    at Pipe.<anonymous> (node:net:337:12) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'python3 /tmp/game#3#72769922-7a86-41d9-add0-911fae64ba5d-RWrpxQ/team#Amanda and the Cs.pyz serve 9002',
+  stdout: 'Connecting to server on port 9002...\n' +
+    'Connected to server on port 9002\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n' +
+    'Amanda and the Carsons Zombie Bot\n',
+  stderr: 'Something went wrong running your bot: [Errno 32] Broken pipe\n' +
+    'Traceback (most recent call last):\n' +
+    '  File "/tmp/game#3#72769922-7a86-41d9-add0-911fae64ba5d-RWrpxQ/team#Amanda and the Cs.pyz/main.py", line 255, in serve\n' +
+    '    client.write(response)\n' +
+    '  File "/tmp/game#3#72769922-7a86-41d9-add0-911fae64ba5d-RWrpxQ/team#Amanda and the Cs.pyz/network/client.py", line 41, in write\n' +
+    '    self.socket.sendall(str.encode(message + "\\n"))\n' +
+    'BrokenPipeError: [Errno 32] Broken pipe\n' +
+    'Traceback (most recent call last):\n' +
+    '  File "/tmp/game#3#72769922-7a86-41d9-add0-911fae64ba5d-RWrpxQ/team#Amanda and the Cs.pyz/main.py", line 255, in serve\n' +
+    '  File "/tmp/game#3#72769922-7a86-41d9-add0-911fae64ba5d-RWrpxQ/team#Amanda and the Cs.pyz/network/client.py", line 41, in write\n' +
+    'BrokenPipeError: [Errno 32] Broken pipe\n' +
+    '\n' +
+    'During handling of the above exception, another exception occurred:\n' +
+    '\n' +
+    'Traceback (most recent call last):\n' +
+    '  File "<frozen runpy>", line 198, in _run_module_as_main\n' +
+    '  File "<frozen runpy>", line 88, in _run_code\n' +
+    '  File "/tmp/game#3#72769922-7a86-41d9-add0-911fae64ba5d-RWrpxQ/team#Amanda and the Cs.pyz/__main__.py", line 3, in <module>\n' +
+    '  File "/tmp/game#3#72769922-7a86-41d9-add0-911fae64ba5d-RWrpxQ/team#Amanda and the Cs.pyz/main.py", line 331, in main\n' +
+    '  File "/tmp/game#3#72769922-7a86-41d9-add0-911fae64ba5d-RWrpxQ/team#Amanda and the Cs.pyz/main.py", line 307, in serve\n' +
+    '  File "/tmp/game#3#72769922-7a86-41d9-add0-911fae64ba5d-RWrpxQ/team#Amanda and the Cs.pyz/network/client.py", line 41, in write\n' +
+    'BrokenPipeError: [Errno 32] Broken pipe\n'
+}
+		

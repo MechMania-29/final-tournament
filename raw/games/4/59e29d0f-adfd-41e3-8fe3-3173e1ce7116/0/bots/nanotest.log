@@ -1,0 +1,23 @@
+---- OUTPUT (stdout) ----
+		Error: Error: Command failed: java -jar /tmp/game#4#59e29d0f-adfd-41e3-8fe3-3173e1ce7116-gWihuk/team#nanotest.jar serve 9002
+Error: LinkageError occurred while loading main class mech.mania.starterpack.Starterpack
+	java.lang.UnsupportedClassVersionError: mech/mania/starterpack/Starterpack has been compiled by a more recent version of the Java Runtime (class file version 65.0), this version of the Java Runtime only recognizes class file versions up to 61.0
+
+		---- ERRORS (stderr) ----
+		Error: Command failed: java -jar /tmp/game#4#59e29d0f-adfd-41e3-8fe3-3173e1ce7116-gWihuk/team#nanotest.jar serve 9002
+Error: LinkageError occurred while loading main class mech.mania.starterpack.Starterpack
+	java.lang.UnsupportedClassVersionError: mech/mania/starterpack/Starterpack has been compiled by a more recent version of the Java Runtime (class file version 65.0), this version of the Java Runtime only recognizes class file versions up to 61.0
+
+    at ChildProcess.exithandler (node:child_process:422:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1105:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:305:5) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'java -jar /tmp/game#4#59e29d0f-adfd-41e3-8fe3-3173e1ce7116-gWihuk/team#nanotest.jar serve 9002',
+  stdout: '',
+  stderr: 'Error: LinkageError occurred while loading main class mech.mania.starterpack.Starterpack\n' +
+    '\tjava.lang.UnsupportedClassVersionError: mech/mania/starterpack/Starterpack has been compiled by a more recent version of the Java Runtime (class file version 65.0), this version of the Java Runtime only recognizes class file versions up to 61.0\n'
+}
+		

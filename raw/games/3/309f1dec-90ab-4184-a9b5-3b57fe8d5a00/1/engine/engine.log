@@ -1,0 +1,173 @@
+---- OUTPUT (stdout) ----
+		Loading map...
+Connecting clients...
+Running game...
+Game finished on turn 200 with 1 humans and 24 zombies, 205-95 (H-Z)
+Writing to `gamelog.json`...
+Finished
+
+		---- ERRORS (stderr) ----
+		zombie player provided an invalid input on turn 23 during MOVE phase: MoveAction{executingCharacterId=1, destination=(62, 43)}
+Expected (one of): [MoveAction{executingCharacterId=1, destination=(62, 38)}, MoveAction{executingCharacterId=1, destination=(65, 44)}, MoveAction{executingCharacterId=1, destination=(63, 39)}, MoveAction{executingCharacterId=1, destination=(58, 41)}, MoveAction{executingCharacterId=1, destination=(61, 41)}, MoveAction{executingCharacterId=1, destination=(66, 41)}, MoveAction{executingCharacterId=1, destination=(63, 43)}, MoveAction{executingCharacterId=1, destination=(59, 41)}, MoveAction{executingCharacterId=1, destination=(60, 41)}, MoveAction{executingCharacterId=1, destination=(65, 40)}, MoveAction{executingCharacterId=1, destination=(67, 41)}, MoveAction{executingCharacterId=1, destination=(62, 42)}, MoveAction{executingCharacterId=1, destination=(64, 39)}, MoveAction{executingCharacterId=1, destination=(65, 39)}, MoveAction{executingCharacterId=1, destination=(62, 39)}, MoveAction{executingCharacterId=1, destination=(64, 42)}, MoveAction{executingCharacterId=1, destination=(63, 36)}, MoveAction{executingCharacterId=1, destination=(66, 40)}, MoveAction{executingCharacterId=1, destination=(63, 44)}, MoveAction{executingCharacterId=1, destination=(59, 42)}, MoveAction{executingCharacterId=1, destination=(60, 40)}, MoveAction{executingCharacterId=1, destination=(61, 38)}, MoveAction{executingCharacterId=1, destination=(63, 40)}, MoveAction{executingCharacterId=1, destination=(64, 38)}, MoveAction{executingCharacterId=1, destination=(65, 38)}, MoveAction{executingCharacterId=1, destination=(64, 41)}, MoveAction{executingCharacterId=1, destination=(66, 39)}, MoveAction{executingCharacterId=1, destination=(63, 45)}, MoveAction{executingCharacterId=1, destination=(63, 37)}, MoveAction{executingCharacterId=1, destination=(60, 39)}, MoveAction{executingCharacterId=1, destination=(63, 41)}, MoveAction{executingCharacterId=1, destination=(61, 39)}, MoveAction{executingCharacterId=1, destination=(60, 43)}, MoveAction{executingCharacterId=1, destination=(64, 45)}, MoveAction{executingCharacterId=1, destination=(62, 40)}, MoveAction{executingCharacterId=1, destination=(62, 44)}, MoveAction{executingCharacterId=1, destination=(64, 37)}, MoveAction{executingCharacterId=1, destination=(62, 37)}, MoveAction{executingCharacterId=1, destination=(68, 41)}, MoveAction{executingCharacterId=1, destination=(64, 40)}, MoveAction{executingCharacterId=1, destination=(67, 40)}, MoveAction{executingCharacterId=1, destination=(63, 38)}, MoveAction{executingCharacterId=1, destination=(61, 44)}, MoveAction{executingCharacterId=1, destination=(63, 46)}, MoveAction{executingCharacterId=1, destination=(61, 40)}, MoveAction{executingCharacterId=1, destination=(66, 42)}, MoveAction{executingCharacterId=1, destination=(63, 42)}, MoveAction{executingCharacterId=1, destination=(59, 40)}, MoveAction{executingCharacterId=1, destination=(60, 42)}, MoveAction{executingCharacterId=1, destination=(64, 44)}, MoveAction{executingCharacterId=1, destination=(62, 41)}, MoveAction{executingCharacterId=1, destination=(65, 41)}, MoveAction{executingCharacterId=1, destination=(62, 45)}]
+zombie player provided an invalid input on turn 23 during MOVE phase: MoveAction{executingCharacterId=7, destination=(62, 43)}
+Expected (one of): [MoveAction{executingCharacterId=7, destination=(62, 38)}, MoveAction{executingCharacterId=7, destination=(65, 44)}, MoveAction{executingCharacterId=7, destination=(63, 39)}, MoveAction{executingCharacterId=7, destination=(58, 41)}, MoveAction{executingCharacterId=7, destination=(61, 41)}, MoveAction{executingCharacterId=7, destination=(66, 41)}, MoveAction{executingCharacterId=7, destination=(63, 43)}, MoveAction{executingCharacterId=7, destination=(59, 41)}, MoveAction{executingCharacterId=7, destination=(60, 41)}, MoveAction{executingCharacterId=7, destination=(65, 40)}, MoveAction{executingCharacterId=7, destination=(67, 41)}, MoveAction{executingCharacterId=7, destination=(62, 42)}, MoveAction{executingCharacterId=7, destination=(64, 39)}, MoveAction{executingCharacterId=7, destination=(65, 39)}, MoveAction{executingCharacterId=7, destination=(62, 39)}, MoveAction{executingCharacterId=7, destination=(64, 42)}, MoveAction{executingCharacterId=7, destination=(63, 36)}, MoveAction{executingCharacterId=7, destination=(66, 40)}, MoveAction{executingCharacterId=7, destination=(63, 44)}, MoveAction{executingCharacterId=7, destination=(59, 42)}, MoveAction{executingCharacterId=7, destination=(60, 40)}, MoveAction{executingCharacterId=7, destination=(61, 38)}, MoveAction{executingCharacterId=7, destination=(63, 40)}, MoveAction{executingCharacterId=7, destination=(64, 38)}, MoveAction{executingCharacterId=7, destination=(65, 38)}, MoveAction{executingCharacterId=7, destination=(64, 41)}, MoveAction{executingCharacterId=7, destination=(66, 39)}, MoveAction{executingCharacterId=7, destination=(63, 45)}, MoveAction{executingCharacterId=7, destination=(63, 37)}, MoveAction{executingCharacterId=7, destination=(60, 39)}, MoveAction{executingCharacterId=7, destination=(63, 41)}, MoveAction{executingCharacterId=7, destination=(61, 39)}, MoveAction{executingCharacterId=7, destination=(60, 43)}, MoveAction{executingCharacterId=7, destination=(64, 45)}, MoveAction{executingCharacterId=7, destination=(62, 40)}, MoveAction{executingCharacterId=7, destination=(62, 44)}, MoveAction{executingCharacterId=7, destination=(64, 37)}, MoveAction{executingCharacterId=7, destination=(62, 37)}, MoveAction{executingCharacterId=7, destination=(68, 41)}, MoveAction{executingCharacterId=7, destination=(64, 40)}, MoveAction{executingCharacterId=7, destination=(67, 40)}, MoveAction{executingCharacterId=7, destination=(63, 38)}, MoveAction{executingCharacterId=7, destination=(61, 44)}, MoveAction{executingCharacterId=7, destination=(63, 46)}, MoveAction{executingCharacterId=7, destination=(61, 40)}, MoveAction{executingCharacterId=7, destination=(66, 42)}, MoveAction{executingCharacterId=7, destination=(63, 42)}, MoveAction{executingCharacterId=7, destination=(59, 40)}, MoveAction{executingCharacterId=7, destination=(60, 42)}, MoveAction{executingCharacterId=7, destination=(64, 44)}, MoveAction{executingCharacterId=7, destination=(62, 41)}, MoveAction{executingCharacterId=7, destination=(65, 41)}, MoveAction{executingCharacterId=7, destination=(62, 45)}]
+zombie player provided an invalid input on turn 25 during MOVE phase: MoveAction{executingCharacterId=1, destination=(62, 43)}
+Expected (one of): [MoveAction{executingCharacterId=1, destination=(62, 38)}, MoveAction{executingCharacterId=1, destination=(65, 38)}, MoveAction{executingCharacterId=1, destination=(64, 41)}, MoveAction{executingCharacterId=1, destination=(65, 44)}, MoveAction{executingCharacterId=1, destination=(66, 39)}, MoveAction{executingCharacterId=1, destination=(63, 39)}, MoveAction{executingCharacterId=1, destination=(63, 45)}, MoveAction{executingCharacterId=1, destination=(63, 37)}, MoveAction{executingCharacterId=1, destination=(60, 39)}, MoveAction{executingCharacterId=1, destination=(66, 41)}, MoveAction{executingCharacterId=1, destination=(63, 41)}, MoveAction{executingCharacterId=1, destination=(63, 43)}, MoveAction{executingCharacterId=1, destination=(61, 39)}, MoveAction{executingCharacterId=1, destination=(60, 41)}, MoveAction{executingCharacterId=1, destination=(64, 45)}, MoveAction{executingCharacterId=1, destination=(62, 40)}, MoveAction{executingCharacterId=1, destination=(65, 40)}, MoveAction{executingCharacterId=1, destination=(67, 41)}, MoveAction{executingCharacterId=1, destination=(62, 44)}, MoveAction{executingCharacterId=1, destination=(64, 37)}, MoveAction{executingCharacterId=1, destination=(62, 42)}, MoveAction{executingCharacterId=1, destination=(64, 39)}, MoveAction{executingCharacterId=1, destination=(62, 37)}, MoveAction{executingCharacterId=1, destination=(65, 39)}, MoveAction{executingCharacterId=1, destination=(68, 41)}, MoveAction{executingCharacterId=1, destination=(64, 40)}, MoveAction{executingCharacterId=1, destination=(67, 40)}, MoveAction{executingCharacterId=1, destination=(62, 39)}, MoveAction{executingCharacterId=1, destination=(64, 42)}, MoveAction{executingCharacterId=1, destination=(63, 38)}, MoveAction{executingCharacterId=1, destination=(61, 44)}, MoveAction{executingCharacterId=1, destination=(63, 46)}, MoveAction{executingCharacterId=1, destination=(61, 40)}, MoveAction{executingCharacterId=1, destination=(63, 36)}, MoveAction{executingCharacterId=1, destination=(66, 42)}, MoveAction{executingCharacterId=1, destination=(63, 42)}, MoveAction{executingCharacterId=1, destination=(66, 40)}, MoveAction{executingCharacterId=1, destination=(63, 44)}, MoveAction{executingCharacterId=1, destination=(60, 40)}, MoveAction{executingCharacterId=1, destination=(61, 38)}, MoveAction{executingCharacterId=1, destination=(59, 40)}, MoveAction{executingCharacterId=1, destination=(63, 40)}, MoveAction{executingCharacterId=1, destination=(64, 44)}, MoveAction{executingCharacterId=1, destination=(62, 41)}, MoveAction{executingCharacterId=1, destination=(65, 41)}, MoveAction{executingCharacterId=1, destination=(64, 38)}, MoveAction{executingCharacterId=1, destination=(62, 45)}]
+zombie player provided an invalid input on turn 25 during MOVE phase: MoveAction{executingCharacterId=7, destination=(62, 43)}
+Expected (one of): [MoveAction{executingCharacterId=7, destination=(62, 38)}, MoveAction{executingCharacterId=7, destination=(65, 38)}, MoveAction{executingCharacterId=7, destination=(64, 41)}, MoveAction{executingCharacterId=7, destination=(65, 44)}, MoveAction{executingCharacterId=7, destination=(66, 39)}, MoveAction{executingCharacterId=7, destination=(63, 39)}, MoveAction{executingCharacterId=7, destination=(63, 45)}, MoveAction{executingCharacterId=7, destination=(63, 37)}, MoveAction{executingCharacterId=7, destination=(60, 39)}, MoveAction{executingCharacterId=7, destination=(66, 41)}, MoveAction{executingCharacterId=7, destination=(63, 41)}, MoveAction{executingCharacterId=7, destination=(63, 43)}, MoveAction{executingCharacterId=7, destination=(61, 39)}, MoveAction{executingCharacterId=7, destination=(60, 41)}, MoveAction{executingCharacterId=7, destination=(64, 45)}, MoveAction{executingCharacterId=7, destination=(62, 40)}, MoveAction{executingCharacterId=7, destination=(65, 40)}, MoveAction{executingCharacterId=7, destination=(67, 41)}, MoveAction{executingCharacterId=7, destination=(62, 44)}, MoveAction{executingCharacterId=7, destination=(64, 37)}, MoveAction{executingCharacterId=7, destination=(62, 42)}, MoveAction{executingCharacterId=7, destination=(64, 39)}, MoveAction{executingCharacterId=7, destination=(62, 37)}, MoveAction{executingCharacterId=7, destination=(65, 39)}, MoveAction{executingCharacterId=7, destination=(68, 41)}, MoveAction{executingCharacterId=7, destination=(64, 40)}, MoveAction{executingCharacterId=7, destination=(67, 40)}, MoveAction{executingCharacterId=7, destination=(62, 39)}, MoveAction{executingCharacterId=7, destination=(64, 42)}, MoveAction{executingCharacterId=7, destination=(63, 38)}, MoveAction{executingCharacterId=7, destination=(61, 44)}, MoveAction{executingCharacterId=7, destination=(63, 46)}, MoveAction{executingCharacterId=7, destination=(61, 40)}, MoveAction{executingCharacterId=7, destination=(63, 36)}, MoveAction{executingCharacterId=7, destination=(66, 42)}, MoveAction{executingCharacterId=7, destination=(63, 42)}, MoveAction{executingCharacterId=7, destination=(66, 40)}, MoveAction{executingCharacterId=7, destination=(63, 44)}, MoveAction{executingCharacterId=7, destination=(60, 40)}, MoveAction{executingCharacterId=7, destination=(61, 38)}, MoveAction{executingCharacterId=7, destination=(59, 40)}, MoveAction{executingCharacterId=7, destination=(63, 40)}, MoveAction{executingCharacterId=7, destination=(64, 44)}, MoveAction{executingCharacterId=7, destination=(62, 41)}, MoveAction{executingCharacterId=7, destination=(65, 41)}, MoveAction{executingCharacterId=7, destination=(64, 38)}, MoveAction{executingCharacterId=7, destination=(62, 45)}]
+zombie player provided an invalid input on turn 27 during MOVE phase: MoveAction{executingCharacterId=1, destination=(62, 43)}
+Expected (one of): [MoveAction{executingCharacterId=1, destination=(62, 38)}, MoveAction{executingCharacterId=1, destination=(65, 44)}, MoveAction{executingCharacterId=1, destination=(64, 43)}, MoveAction{executingCharacterId=1, destination=(63, 39)}, MoveAction{executingCharacterId=1, destination=(66, 41)}, MoveAction{executingCharacterId=1, destination=(63, 43)}, MoveAction{executingCharacterId=1, destination=(60, 41)}, MoveAction{executingCharacterId=1, destination=(65, 40)}, MoveAction{executingCharacterId=1, destination=(67, 41)}, MoveAction{executingCharacterId=1, destination=(62, 42)}, MoveAction{executingCharacterId=1, destination=(64, 39)}, MoveAction{executingCharacterId=1, destination=(65, 39)}, MoveAction{executingCharacterId=1, destination=(65, 43)}, MoveAction{executingCharacterId=1, destination=(62, 39)}, MoveAction{executingCharacterId=1, destination=(64, 42)}, MoveAction{executingCharacterId=1, destination=(63, 36)}, MoveAction{executingCharacterId=1, destination=(66, 40)}, MoveAction{executingCharacterId=1, destination=(63, 44)}, MoveAction{executingCharacterId=1, destination=(60, 40)}, MoveAction{executingCharacterId=1, destination=(61, 38)}, MoveAction{executingCharacterId=1, destination=(63, 40)}, MoveAction{executingCharacterId=1, destination=(64, 38)}, MoveAction{executingCharacterId=1, destination=(65, 38)}, MoveAction{executingCharacterId=1, destination=(64, 41)}, MoveAction{executingCharacterId=1, destination=(66, 39)}, MoveAction{executingCharacterId=1, destination=(63, 45)}, MoveAction{executingCharacterId=1, destination=(63, 37)}, MoveAction{executingCharacterId=1, destination=(60, 39)}, MoveAction{executingCharacterId=1, destination=(63, 41)}, MoveAction{executingCharacterId=1, destination=(61, 39)}, MoveAction{executingCharacterId=1, destination=(64, 45)}, MoveAction{executingCharacterId=1, destination=(62, 40)}, MoveAction{executingCharacterId=1, destination=(62, 44)}, MoveAction{executingCharacterId=1, destination=(64, 37)}, MoveAction{executingCharacterId=1, destination=(62, 37)}, MoveAction{executingCharacterId=1, destination=(68, 41)}, MoveAction{executingCharacterId=1, destination=(64, 40)}, MoveAction{executingCharacterId=1, destination=(67, 40)}, MoveAction{executingCharacterId=1, destination=(63, 38)}, MoveAction{executingCharacterId=1, destination=(61, 44)}, MoveAction{executingCharacterId=1, destination=(63, 46)}, MoveAction{executingCharacterId=1, destination=(61, 40)}, MoveAction{executingCharacterId=1, destination=(66, 42)}, MoveAction{executingCharacterId=1, destination=(63, 42)}, MoveAction{executingCharacterId=1, destination=(59, 40)}, MoveAction{executingCharacterId=1, destination=(64, 44)}, MoveAction{executingCharacterId=1, destination=(62, 41)}, MoveAction{executingCharacterId=1, destination=(65, 41)}, MoveAction{executingCharacterId=1, destination=(62, 45)}]
+zombie player provided an invalid input on turn 27 during MOVE phase: MoveAction{executingCharacterId=7, destination=(62, 43)}
+Expected (one of): [MoveAction{executingCharacterId=7, destination=(62, 38)}, MoveAction{executingCharacterId=7, destination=(65, 44)}, MoveAction{executingCharacterId=7, destination=(64, 43)}, MoveAction{executingCharacterId=7, destination=(63, 39)}, MoveAction{executingCharacterId=7, destination=(66, 41)}, MoveAction{executingCharacterId=7, destination=(63, 43)}, MoveAction{executingCharacterId=7, destination=(60, 41)}, MoveAction{executingCharacterId=7, destination=(65, 40)}, MoveAction{executingCharacterId=7, destination=(67, 41)}, MoveAction{executingCharacterId=7, destination=(62, 42)}, MoveAction{executingCharacterId=7, destination=(64, 39)}, MoveAction{executingCharacterId=7, destination=(65, 39)}, MoveAction{executingCharacterId=7, destination=(65, 43)}, MoveAction{executingCharacterId=7, destination=(62, 39)}, MoveAction{executingCharacterId=7, destination=(64, 42)}, MoveAction{executingCharacterId=7, destination=(63, 36)}, MoveAction{executingCharacterId=7, destination=(66, 40)}, MoveAction{executingCharacterId=7, destination=(63, 44)}, MoveAction{executingCharacterId=7, destination=(60, 40)}, MoveAction{executingCharacterId=7, destination=(61, 38)}, MoveAction{executingCharacterId=7, destination=(63, 40)}, MoveAction{executingCharacterId=7, destination=(64, 38)}, MoveAction{executingCharacterId=7, destination=(65, 38)}, MoveAction{executingCharacterId=7, destination=(64, 41)}, MoveAction{executingCharacterId=7, destination=(66, 39)}, MoveAction{executingCharacterId=7, destination=(63, 45)}, MoveAction{executingCharacterId=7, destination=(63, 37)}, MoveAction{executingCharacterId=7, destination=(60, 39)}, MoveAction{executingCharacterId=7, destination=(63, 41)}, MoveAction{executingCharacterId=7, destination=(61, 39)}, MoveAction{executingCharacterId=7, destination=(64, 45)}, MoveAction{executingCharacterId=7, destination=(62, 40)}, MoveAction{executingCharacterId=7, destination=(62, 44)}, MoveAction{executingCharacterId=7, destination=(64, 37)}, MoveAction{executingCharacterId=7, destination=(62, 37)}, MoveAction{executingCharacterId=7, destination=(68, 41)}, MoveAction{executingCharacterId=7, destination=(64, 40)}, MoveAction{executingCharacterId=7, destination=(67, 40)}, MoveAction{executingCharacterId=7, destination=(63, 38)}, MoveAction{executingCharacterId=7, destination=(61, 44)}, MoveAction{executingCharacterId=7, destination=(63, 46)}, MoveAction{executingCharacterId=7, destination=(61, 40)}, MoveAction{executingCharacterId=7, destination=(66, 42)}, MoveAction{executingCharacterId=7, destination=(63, 42)}, MoveAction{executingCharacterId=7, destination=(59, 40)}, MoveAction{executingCharacterId=7, destination=(64, 44)}, MoveAction{executingCharacterId=7, destination=(62, 41)}, MoveAction{executingCharacterId=7, destination=(65, 41)}, MoveAction{executingCharacterId=7, destination=(62, 45)}]
+An error occurred handling input of zombie player on turn 51 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 53 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 55 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 57 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 59 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 61 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 63 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 65 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 67 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 69 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 71 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 73 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 75 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 77 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 79 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 81 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 83 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 85 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 87 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 89 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 91 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 93 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 95 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 97 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 99 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 101 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 103 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 105 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 107 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 109 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 111 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 113 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 115 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 117 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 119 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 121 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 123 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 125 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 127 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 129 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 131 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 133 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 135 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 137 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 139 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 141 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 143 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 145 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 147 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 149 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 151 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 153 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 155 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 157 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 159 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 161 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 163 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 165 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 167 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 169 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 171 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 173 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 175 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 177 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 179 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 181 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 183 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 185 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 187 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 189 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 191 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 193 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 195 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 197 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 199 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+
+		

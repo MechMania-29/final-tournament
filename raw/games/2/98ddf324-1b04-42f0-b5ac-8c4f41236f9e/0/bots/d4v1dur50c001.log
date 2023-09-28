@@ -1,0 +1,18 @@
+---- OUTPUT (stdout) ----
+		Error: Error: Command failed: python3 /tmp/game#2#98ddf324-1b04-42f0-b5ac-8c4f41236f9e-FcTfac/team#d4v1dur50c001.pyz serve 9002
+
+		---- ERRORS (stderr) ----
+		Error: Command failed: python3 /tmp/game#2#98ddf324-1b04-42f0-b5ac-8c4f41236f9e-FcTfac/team#d4v1dur50c001.pyz serve 9002
+
+    at ChildProcess.exithandler (node:child_process:422:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1105:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:305:5) {
+  code: null,
+  killed: false,
+  signal: 'SIGKILL',
+  cmd: 'python3 /tmp/game#2#98ddf324-1b04-42f0-b5ac-8c4f41236f9e-FcTfac/team#d4v1dur50c001.pyz serve 9002',
+  stdout: '',
+  stderr: ''
+}
+		

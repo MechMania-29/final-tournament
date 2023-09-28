@@ -1,0 +1,831 @@
+---- OUTPUT (stdout) ----
+		Connecting to server on port 9001...
+Connected to server on port 9001
+Health of 22 is 2
+Health of 11 is 1
+Health of 23 is 1
+Health of 12 is 2
+Health of 24 is 1
+Health of 13 is 1
+Health of 14 is 1
+Health of 15 is 1
+Health of 16 is 2
+Health of 17 is 1
+Health of 18 is 1
+Health of 19 is 1
+Health of 5 is 2
+Health of 6 is 1
+Health of 7 is 1
+Health of 8 is 1
+Health of 9 is 2
+Health of 20 is 1
+Health of 10 is 1
+Health of 21 is 1
+healing10
+FOUND BUILDER
+healing7
+FOUND BUILDER
+healing19
+FOUND BUILDER
+healing11
+FOUND BUILDER
+healing11
+FOUND BUILDER
+Health of 22 is 2
+Health of 11 is 3
+Health of 23 is 1
+Health of 12 is 2
+Health of 24 is 1
+Health of 13 is 1
+Health of 14 is 1
+Health of 15 is 1
+Health of 16 is 2
+Health of 17 is 1
+Health of 18 is 1
+Health of 19 is 2
+Health of 5 is 2
+Health of 6 is 1
+Health of 7 is 2
+Health of 8 is 1
+Health of 9 is 2
+Health of 20 is 1
+Health of 10 is 2
+Health of 21 is 1
+FOUND BUILDER
+FOUND BUILDER
+Health of 22 is 2
+Health of 11 is 3
+Health of 23 is 1
+Health of 12 is 2
+Health of 24 is 1
+Health of 13 is 1
+Health of 14 is 1
+Health of 15 is 1
+Health of 16 is 2
+Health of 17 is 1
+Health of 18 is 1
+Health of 19 is 2
+Health of 5 is 2
+Health of 6 is 1
+Health of 7 is 2
+Health of 8 is 1
+Health of 9 is 2
+Health of 20 is 1
+Health of 10 is 2
+Health of 21 is 1
+Health of 22 is 2
+Health of 11 is 3
+Health of 23 is 1
+Health of 12 is 2
+Health of 24 is 1
+Health of 13 is 1
+Health of 14 is 1
+Health of 15 is 1
+Health of 16 is 2
+Health of 17 is 1
+Health of 18 is 1
+Health of 19 is 2
+Health of 5 is 2
+Health of 6 is 1
+Health of 7 is 2
+Health of 8 is 1
+Health of 9 is 2
+Health of 20 is 1
+Health of 10 is 2
+Health of 21 is 1
+Health of 22 is 2
+Health of 11 is 3
+Health of 23 is 1
+Health of 12 is 2
+Health of 24 is 1
+Health of 13 is 1
+Health of 14 is 1
+Health of 15 is 1
+Health of 16 is 2
+Health of 17 is 1
+Health of 18 is 1
+Health of 19 is 2
+Health of 5 is 2
+Health of 6 is 1
+Health of 7 is 2
+Health of 8 is 1
+Health of 9 is 2
+Health of 20 is 1
+Health of 10 is 2
+Health of 21 is 1
+Health of 22 is 2
+Health of 11 is 3
+Health of 23 is 1
+Health of 12 is 2
+Health of 24 is 1
+Health of 13 is 1
+Health of 14 is 1
+Health of 15 is 1
+Health of 16 is 2
+Health of 17 is 1
+Health of 18 is 1
+Health of 19 is 2
+Health of 5 is 2
+Health of 6 is 1
+Health of 7 is 2
+Health of 8 is 1
+Health of 9 is 2
+Health of 20 is 1
+Health of 10 is 2
+Health of 21 is 1
+Health of 22 is 2
+Health of 11 is 3
+Health of 23 is 1
+Health of 12 is 2
+Health of 24 is 1
+Health of 13 is 1
+Health of 14 is 1
+Health of 15 is 1
+Health of 16 is 2
+Health of 17 is 1
+Health of 18 is 1
+Health of 19 is 2
+Health of 5 is 2
+Health of 6 is 1
+Health of 7 is 2
+Health of 8 is 1
+Health of 9 is 2
+Health of 20 is 1
+Health of 10 is 2
+Health of 21 is 1
+Health of 22 is 2
+Health of 11 is 3
+Health of 23 is 1
+Health of 12 is 2
+Health of 24 is 1
+Health of 13 is 1
+Health of 14 is 1
+Health of 15 is 1
+Health of 16 is 2
+Health of 17 is 1
+Health of 18 is 1
+Health of 19 is 2
+Health of 5 is 2
+Health of 6 is 1
+Health of 7 is 2
+Health of 8 is 1
+Health of 9 is 2
+Health of 20 is 1
+Health of 10 is 2
+Health of 21 is 1
+healing9
+FOUND BUILDER
+healing16
+FOUND BUILDER
+healing12
+FOUND BUILDER
+healing12
+healing22
+Health of 22 is 3
+Health of 11 is 3
+Health of 23 is 1
+Health of 12 is 4
+Health of 24 is 1
+Health of 13 is 1
+Health of 14 is 1
+Health of 15 is 1
+Health of 16 is 3
+Health of 17 is 1
+Health of 18 is 1
+Health of 19 is 2
+Health of 5 is 2
+Health of 6 is 1
+Health of 7 is 2
+Health of 8 is 1
+Health of 9 is 3
+Health of 20 is 1
+Health of 10 is 2
+Health of 21 is 1
+FOUND BUILDER
+FOUND BUILDER
+FOUND BUILDER
+Health of 22 is 3
+Health of 11 is 3
+Health of 23 is 1
+Health of 12 is 4
+Health of 24 is 1
+Health of 13 is 1
+Health of 14 is 1
+Health of 15 is 1
+Health of 16 is 3
+Health of 17 is 1
+Health of 18 is 1
+Health of 19 is 2
+Health of 5 is 2
+Health of 6 is 1
+Health of 7 is 2
+Health of 8 is 1
+Health of 9 is 3
+Health of 20 is 1
+Health of 10 is 2
+Health of 21 is 1
+FOUND BUILDER
+Health of 22 is 3
+Health of 11 is 3
+Health of 23 is 1
+Health of 12 is 4
+Health of 24 is 1
+Health of 13 is 1
+Health of 14 is 1
+Health of 15 is 1
+Health of 16 is 3
+Health of 17 is 1
+Health of 18 is 1
+Health of 19 is 2
+Health of 5 is 2
+Health of 6 is 1
+Health of 7 is 2
+Health of 8 is 1
+Health of 9 is 3
+Health of 20 is 1
+Health of 10 is 2
+Health of 21 is 1
+zombie was not stunned 22 0 5
+zombie was not stunned 22 1 5
+zombie was not stunned 22 2 5
+zombie was not stunned 22 4 5
+shot at zombie0
+Health of 22 is 3
+Health of 11 is 3
+Health of 23 is 1
+Health of 12 is 4
+Health of 24 is 1
+Health of 13 is 1
+Health of 14 is 1
+Health of 15 is 1
+Health of 16 is 3
+Health of 17 is 1
+Health of 18 is 1
+Health of 19 is 2
+Health of 6 is 1
+Health of 7 is 2
+Health of 8 is 1
+Health of 9 is 3
+Health of 20 is 1
+Health of 10 is 2
+Health of 21 is 1
+zombie was not stunned 24 0 22
+zombie was not stunned 24 1 22
+zombie was not stunned 24 2 22
+zombie was not stunned 24 3 22
+zombie was not stunned 24 4 22
+zombie was not stunned 24 5 22
+shot at zombie1
+zombie was not stunned 24 0 9
+zombie was stunned 24 1 9
+zombie was not stunned 24 2 9
+zombie was not stunned 24 3 9
+zombie was not stunned 24 4 9
+zombie was not stunned 24 5 9
+shot at zombie2
+Health of 22 is 2
+Health of 11 is 3
+Health of 23 is 1
+Health of 12 is 4
+Health of 24 is 1
+Health of 13 is 1
+Health of 14 is 1
+Health of 15 is 1
+Health of 16 is 3
+Health of 17 is 1
+Health of 18 is 1
+Health of 19 is 2
+Health of 6 is 1
+Health of 7 is 2
+Health of 8 is 1
+Health of 9 is 2
+Health of 20 is 1
+Health of 10 is 2
+Health of 21 is 1
+zombie was not stunned 26 0 12
+zombie was not stunned 26 1 12
+zombie was not stunned 26 2 12
+zombie was not stunned 26 3 12
+zombie was not stunned 26 4 12
+zombie was not stunned 26 5 12
+shot at zombie0
+zombie was stunned 26 0 16
+zombie was not stunned 26 1 16
+zombie was not stunned 26 2 16
+zombie was not stunned 26 3 16
+zombie was not stunned 26 4 16
+zombie was not stunned 26 5 16
+shot at zombie1
+Health of 22 is 2
+Health of 11 is 3
+Health of 23 is 1
+Health of 12 is 3
+Health of 24 is 1
+Health of 13 is 1
+Health of 14 is 1
+Health of 15 is 1
+Health of 16 is 2
+Health of 17 is 1
+Health of 18 is 1
+Health of 19 is 2
+Health of 6 is 1
+Health of 7 is 2
+Health of 8 is 1
+Health of 9 is 2
+Health of 20 is 1
+Health of 10 is 2
+Health of 21 is 1
+Health of 11 is 3
+Health of 23 is 1
+Health of 12 is 3
+Health of 24 is 1
+Health of 13 is 1
+Health of 14 is 1
+Health of 15 is 1
+Health of 16 is 1
+Health of 17 is 1
+Health of 18 is 1
+Health of 19 is 2
+Health of 6 is 1
+Health of 7 is 2
+Health of 8 is 1
+Health of 9 is 2
+Health of 20 is 1
+Health of 10 is 2
+Health of 21 is 1
+FOUND BUILDER
+healing16
+healing9
+FOUND BUILDER
+healing16
+Health of 11 is 3
+Health of 23 is 1
+Health of 12 is 3
+Health of 24 is 1
+Health of 13 is 1
+Health of 14 is 1
+Health of 15 is 1
+Health of 17 is 1
+Health of 18 is 1
+Health of 19 is 2
+Health of 6 is 1
+Health of 7 is 2
+Health of 8 is 1
+Health of 20 is 1
+Health of 10 is 2
+Health of 21 is 1
+FOUND BUILDER
+FOUND BUILDER
+FOUND BUILDER
+Health of 11 is 3
+Health of 23 is 1
+Health of 24 is 1
+Health of 13 is 1
+Health of 14 is 1
+Health of 15 is 1
+Health of 17 is 1
+Health of 18 is 1
+Health of 19 is 2
+Health of 6 is 1
+Health of 7 is 2
+Health of 8 is 1
+Health of 20 is 1
+Health of 10 is 2
+Health of 21 is 1
+FOUND BUILDER
+FOUND BUILDER
+FOUND BUILDER
+Health of 11 is 3
+Health of 23 is 1
+Health of 24 is 1
+Health of 13 is 1
+Health of 14 is 1
+Health of 15 is 1
+Health of 17 is 1
+Health of 18 is 1
+Health of 19 is 2
+Health of 6 is 1
+Health of 7 is 2
+Health of 8 is 1
+Health of 20 is 1
+Health of 10 is 2
+Health of 21 is 1
+FOUND BUILDER
+FOUND BUILDER
+Health of 11 is 3
+Health of 23 is 1
+Health of 24 is 1
+Health of 13 is 1
+Health of 14 is 1
+Health of 15 is 1
+Health of 17 is 1
+Health of 18 is 1
+Health of 19 is 2
+Health of 6 is 1
+Health of 7 is 2
+Health of 8 is 1
+Health of 20 is 1
+Health of 10 is 2
+Health of 21 is 1
+FOUND BUILDER
+Health of 11 is 3
+Health of 23 is 1
+Health of 24 is 1
+Health of 13 is 1
+Health of 14 is 1
+Health of 15 is 1
+Health of 17 is 1
+Health of 18 is 1
+Health of 19 is 2
+Health of 6 is 1
+Health of 7 is 2
+Health of 8 is 1
+Health of 20 is 1
+Health of 10 is 2
+Health of 21 is 1
+Health of 11 is 3
+Health of 23 is 1
+Health of 24 is 1
+Health of 13 is 1
+Health of 14 is 1
+Health of 15 is 1
+Health of 17 is 1
+Health of 18 is 1
+Health of 19 is 2
+Health of 6 is 1
+Health of 7 is 2
+Health of 8 is 1
+Health of 20 is 1
+Health of 10 is 2
+Health of 21 is 1
+Health of 11 is 3
+Health of 23 is 1
+Health of 24 is 1
+Health of 13 is 1
+Health of 14 is 1
+Health of 15 is 1
+Health of 17 is 1
+Health of 18 is 1
+Health of 19 is 2
+Health of 6 is 1
+Health of 7 is 2
+Health of 8 is 1
+Health of 20 is 1
+Health of 10 is 2
+Health of 21 is 1
+FOUND BUILDER
+Health of 11 is 3
+Health of 24 is 1
+Health of 13 is 1
+Health of 14 is 1
+Health of 15 is 1
+Health of 17 is 1
+Health of 18 is 1
+Health of 19 is 2
+Health of 6 is 1
+Health of 7 is 2
+Health of 8 is 1
+Health of 20 is 1
+Health of 10 is 2
+Health of 21 is 1
+FOUND BUILDER
+Health of 11 is 3
+Health of 24 is 1
+Health of 13 is 1
+Health of 14 is 1
+Health of 15 is 1
+Health of 17 is 1
+Health of 18 is 1
+Health of 19 is 2
+Health of 6 is 1
+Health of 7 is 2
+Health of 8 is 1
+Health of 20 is 1
+Health of 10 is 2
+Health of 21 is 1
+FOUND BUILDER
+Health of 11 is 3
+Health of 24 is 1
+Health of 13 is 1
+Health of 14 is 1
+Health of 15 is 1
+Health of 17 is 1
+Health of 18 is 1
+Health of 19 is 2
+Health of 6 is 1
+Health of 7 is 2
+Health of 8 is 1
+Health of 20 is 1
+Health of 10 is 2
+Health of 21 is 1
+FOUND BUILDER
+Health of 11 is 3
+Health of 24 is 1
+Health of 13 is 1
+Health of 14 is 1
+Health of 15 is 1
+Health of 17 is 1
+Health of 18 is 1
+Health of 19 is 2
+Health of 6 is 1
+Health of 7 is 2
+Health of 8 is 1
+Health of 20 is 1
+Health of 10 is 2
+Health of 21 is 1
+FOUND BUILDER
+Health of 11 is 3
+Health of 24 is 1
+Health of 13 is 1
+Health of 14 is 1
+Health of 15 is 1
+Health of 17 is 1
+Health of 18 is 1
+Health of 19 is 2
+Health of 6 is 1
+Health of 7 is 2
+Health of 8 is 1
+Health of 20 is 1
+Health of 10 is 2
+Health of 21 is 1
+Health of 11 is 3
+Health of 24 is 1
+Health of 13 is 1
+Health of 14 is 1
+Health of 15 is 1
+Health of 17 is 1
+Health of 18 is 1
+Health of 19 is 2
+Health of 6 is 1
+Health of 7 is 2
+Health of 8 is 1
+Health of 20 is 1
+Health of 10 is 2
+Health of 21 is 1
+Health of 11 is 3
+Health of 24 is 1
+Health of 13 is 1
+Health of 14 is 1
+Health of 15 is 1
+Health of 17 is 1
+Health of 18 is 1
+Health of 19 is 2
+Health of 6 is 1
+Health of 7 is 2
+Health of 8 is 1
+Health of 20 is 1
+Health of 10 is 2
+Health of 21 is 1
+FOUND BUILDER
+Health of 11 is 3
+Health of 24 is 1
+Health of 13 is 1
+Health of 14 is 1
+Health of 15 is 1
+Health of 17 is 1
+Health of 18 is 1
+Health of 19 is 2
+Health of 6 is 1
+Health of 7 is 2
+Health of 8 is 1
+Health of 20 is 1
+Health of 10 is 2
+Health of 21 is 1
+FOUND BUILDER
+Health of 11 is 3
+Health of 24 is 1
+Health of 13 is 1
+Health of 14 is 1
+Health of 15 is 1
+Health of 17 is 1
+Health of 18 is 1
+Health of 19 is 2
+Health of 6 is 1
+Health of 7 is 2
+Health of 8 is 1
+Health of 20 is 1
+Health of 10 is 2
+Health of 21 is 1
+FOUND BUILDER
+Health of 11 is 3
+Health of 24 is 1
+Health of 13 is 1
+Health of 14 is 1
+Health of 15 is 1
+Health of 17 is 1
+Health of 18 is 1
+Health of 19 is 2
+Health of 6 is 1
+Health of 7 is 2
+Health of 8 is 1
+Health of 20 is 1
+Health of 10 is 2
+Health of 21 is 1
+FOUND BUILDER
+Health of 11 is 3
+Health of 24 is 1
+Health of 13 is 1
+Health of 14 is 1
+Health of 15 is 1
+Health of 17 is 1
+Health of 18 is 1
+Health of 19 is 2
+Health of 6 is 1
+Health of 7 is 2
+Health of 8 is 1
+Health of 20 is 1
+Health of 10 is 2
+Health of 21 is 1
+FOUND BUILDER
+Health of 11 is 3
+Health of 24 is 1
+Health of 13 is 1
+Health of 14 is 1
+Health of 15 is 1
+Health of 17 is 1
+Health of 18 is 1
+Health of 19 is 2
+Health of 6 is 1
+Health of 7 is 2
+Health of 8 is 1
+Health of 20 is 1
+Health of 10 is 2
+Health of 21 is 1
+Health of 11 is 3
+Health of 24 is 1
+Health of 13 is 1
+Health of 14 is 1
+Health of 15 is 1
+Health of 17 is 1
+Health of 18 is 1
+Health of 19 is 2
+Health of 6 is 1
+Health of 7 is 2
+Health of 8 is 1
+Health of 20 is 1
+Health of 10 is 2
+Health of 21 is 1
+Health of 11 is 3
+Health of 24 is 1
+Health of 13 is 1
+Health of 14 is 1
+Health of 15 is 1
+Health of 17 is 1
+Health of 18 is 1
+Health of 19 is 2
+Health of 6 is 1
+Health of 7 is 2
+Health of 8 is 1
+Health of 20 is 1
+Health of 10 is 2
+Health of 21 is 1
+FOUND BUILDER
+Health of 11 is 3
+Health of 24 is 1
+Health of 13 is 1
+Health of 14 is 1
+Health of 15 is 1
+Health of 17 is 1
+Health of 18 is 1
+Health of 19 is 2
+Health of 6 is 1
+Health of 7 is 2
+Health of 8 is 1
+Health of 20 is 1
+Health of 10 is 2
+Health of 21 is 1
+FOUND BUILDER
+Health of 11 is 3
+Health of 24 is 1
+Health of 13 is 1
+Health of 14 is 1
+Health of 15 is 1
+Health of 17 is 1
+Health of 18 is 1
+Health of 19 is 2
+Health of 6 is 1
+Health of 7 is 2
+Health of 8 is 1
+Health of 20 is 1
+Health of 10 is 1
+Health of 21 is 1
+FOUND BUILDER
+Health of 11 is 3
+Health of 24 is 1
+Health of 14 is 1
+Health of 6 is 1
+Health of 18 is 1
+Health of 7 is 2
+Health of 19 is 1
+Health of 20 is 1
+Health of 11 is 2
+Health of 24 is 1
+Health of 6 is 1
+Health of 20 is 1
+Health of 24 is 1
+Health of 6 is 1
+Health of 24 is 1
+Health of 6 is 1
+Health of 24 is 1
+Health of 6 is 1
+Health of 24 is 1
+Health of 6 is 1
+Health of 24 is 1
+Health of 6 is 1
+Health of 24 is 1
+Health of 6 is 1
+Health of 24 is 1
+Health of 6 is 1
+Health of 24 is 1
+Health of 6 is 1
+Health of 24 is 1
+Health of 6 is 1
+Health of 24 is 1
+Health of 6 is 1
+Health of 24 is 1
+Health of 6 is 1
+Health of 24 is 1
+Health of 6 is 1
+Health of 24 is 1
+Health of 6 is 1
+Health of 24 is 1
+Health of 6 is 1
+Health of 24 is 1
+Health of 6 is 1
+Health of 24 is 1
+Health of 6 is 1
+Health of 24 is 1
+Health of 6 is 1
+Health of 24 is 1
+Health of 6 is 1
+Health of 24 is 1
+Health of 6 is 1
+Health of 24 is 1
+Health of 6 is 1
+Health of 24 is 1
+Health of 6 is 1
+Health of 24 is 1
+Health of 6 is 1
+Health of 24 is 1
+Health of 6 is 1
+Health of 24 is 1
+Health of 6 is 1
+Health of 24 is 1
+Health of 6 is 1
+Health of 24 is 1
+Health of 6 is 1
+Health of 24 is 1
+Health of 6 is 1
+Health of 24 is 1
+Health of 6 is 1
+Health of 24 is 1
+Health of 6 is 1
+Health of 24 is 1
+Health of 6 is 1
+Health of 24 is 1
+Health of 6 is 1
+Health of 24 is 1
+Health of 6 is 1
+Health of 24 is 1
+Health of 6 is 1
+Health of 24 is 1
+Health of 6 is 1
+Health of 24 is 1
+Health of 6 is 1
+Health of 24 is 1
+Health of 6 is 1
+Health of 24 is 1
+Health of 6 is 1
+zombie was not stunned 154 22 24
+zombie was not stunned 154 23 24
+zombie was not stunned 154 10 24
+zombie was not stunned 154 11 24
+zombie was not stunned 154 12 24
+zombie was not stunned 154 13 24
+zombie was not stunned 154 14 24
+zombie was not stunned 154 15 24
+zombie was not stunned 154 16 24
+zombie was not stunned 154 17 24
+zombie was not stunned 154 18 24
+zombie was not stunned 154 19 24
+zombie was not stunned 154 0 24
+zombie was not stunned 154 1 24
+zombie was not stunned 154 2 24
+zombie was not stunned 154 3 24
+zombie was not stunned 154 4 24
+zombie was not stunned 154 5 24
+zombie was not stunned 154 7 24
+zombie was not stunned 154 8 24
+zombie was not stunned 154 9 24
+zombie was not stunned 154 20 24
+zombie was not stunned 154 21 24
+shot at zombie23
+
+Your bot had no errors.
+
+Finished game on turn 155 with 0 humans and 25 zombies.
+Score: 155-145 (H-Z). You were the humans.
+
+		---- ERRORS (stderr) ----
+		
+		

@@ -1,0 +1,15 @@
+---- OUTPUT (stdout) ----
+		Loading map...
+Connecting clients...
+Running game...
+Game finished on turn 109 with 0 humans and 25 zombies, 109-191 (H-Z)
+Writing to `gamelog.json`...
+Finished
+
+		---- ERRORS (stderr) ----
+		human player provided an invalid input on turn 0 during CHOOSE_CLASSES phase: 14 of MEDIC class
+Expected (one of): 5 max of MEDIC class
+human player provided an invalid input on turn 0 during CHOOSE_CLASSES phase: 14 of MARKSMAN class
+Expected (one of): 5 max of MARKSMAN class
+
+		

@@ -1,0 +1,100 @@
+---- OUTPUT (stdout) ----
+		Connecting to server on port 9001...
+Connected to server on port 9001
+
+Your bot had 8 errors:
+$An error occurred handling input of human player on turn 34 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 36 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 38 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 40 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 42 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 44 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 46 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 48 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+
+Finished game on turn 49 with 0 humans and 25 zombies.
+Score: 49-251 (H-Z). You were the humans.
+
+		---- ERRORS (stderr) ----
+		Something went wrong running your bot: cannot access local variable 'targetPos' where it is not associated with a value
+Traceback (most recent call last):
+  File "/tmp/game#3#76540fb5-99f4-4a28-9c3b-7eccb5cf4cf2-NO9oB3/team#Polypythons.pyz/main.py", line 225, in serve
+    output = strategy.decide_moves(possible_moves, game_state)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/tmp/game#3#76540fb5-99f4-4a28-9c3b-7eccb5cf4cf2-NO9oB3/team#Polypythons.pyz/strategy/HumanStrat.py", line 66, in decide_moves
+    distance = abs(m.destination.x - targetPos.x) + abs(
+                                     ^^^^^^^^^
+UnboundLocalError: cannot access local variable 'targetPos' where it is not associated with a value
+Something went wrong running your bot: cannot access local variable 'targetPos' where it is not associated with a value
+Traceback (most recent call last):
+  File "/tmp/game#3#76540fb5-99f4-4a28-9c3b-7eccb5cf4cf2-NO9oB3/team#Polypythons.pyz/main.py", line 225, in serve
+    output = strategy.decide_moves(possible_moves, game_state)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/tmp/game#3#76540fb5-99f4-4a28-9c3b-7eccb5cf4cf2-NO9oB3/team#Polypythons.pyz/strategy/HumanStrat.py", line 66, in decide_moves
+    distance = abs(m.destination.x - targetPos.x) + abs(
+                                     ^^^^^^^^^
+UnboundLocalError: cannot access local variable 'targetPos' where it is not associated with a value
+Something went wrong running your bot: cannot access local variable 'targetPos' where it is not associated with a value
+Traceback (most recent call last):
+  File "/tmp/game#3#76540fb5-99f4-4a28-9c3b-7eccb5cf4cf2-NO9oB3/team#Polypythons.pyz/main.py", line 225, in serve
+    output = strategy.decide_moves(possible_moves, game_state)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/tmp/game#3#76540fb5-99f4-4a28-9c3b-7eccb5cf4cf2-NO9oB3/team#Polypythons.pyz/strategy/HumanStrat.py", line 66, in decide_moves
+    distance = abs(m.destination.x - targetPos.x) + abs(
+                                     ^^^^^^^^^
+UnboundLocalError: cannot access local variable 'targetPos' where it is not associated with a value
+Something went wrong running your bot: cannot access local variable 'targetPos' where it is not associated with a value
+Traceback (most recent call last):
+  File "/tmp/game#3#76540fb5-99f4-4a28-9c3b-7eccb5cf4cf2-NO9oB3/team#Polypythons.pyz/main.py", line 225, in serve
+    output = strategy.decide_moves(possible_moves, game_state)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/tmp/game#3#76540fb5-99f4-4a28-9c3b-7eccb5cf4cf2-NO9oB3/team#Polypythons.pyz/strategy/HumanStrat.py", line 66, in decide_moves
+    distance = abs(m.destination.x - targetPos.x) + abs(
+                                     ^^^^^^^^^
+UnboundLocalError: cannot access local variable 'targetPos' where it is not associated with a value
+Something went wrong running your bot: cannot access local variable 'targetPos' where it is not associated with a value
+Traceback (most recent call last):
+  File "/tmp/game#3#76540fb5-99f4-4a28-9c3b-7eccb5cf4cf2-NO9oB3/team#Polypythons.pyz/main.py", line 225, in serve
+    output = strategy.decide_moves(possible_moves, game_state)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/tmp/game#3#76540fb5-99f4-4a28-9c3b-7eccb5cf4cf2-NO9oB3/team#Polypythons.pyz/strategy/HumanStrat.py", line 66, in decide_moves
+    distance = abs(m.destination.x - targetPos.x) + abs(
+                                     ^^^^^^^^^
+UnboundLocalError: cannot access local variable 'targetPos' where it is not associated with a value
+Something went wrong running your bot: cannot access local variable 'targetPos' where it is not associated with a value
+Traceback (most recent call last):
+  File "/tmp/game#3#76540fb5-99f4-4a28-9c3b-7eccb5cf4cf2-NO9oB3/team#Polypythons.pyz/main.py", line 225, in serve
+    output = strategy.decide_moves(possible_moves, game_state)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/tmp/game#3#76540fb5-99f4-4a28-9c3b-7eccb5cf4cf2-NO9oB3/team#Polypythons.pyz/strategy/HumanStrat.py", line 66, in decide_moves
+    distance = abs(m.destination.x - targetPos.x) + abs(
+                                     ^^^^^^^^^
+UnboundLocalError: cannot access local variable 'targetPos' where it is not associated with a value
+Something went wrong running your bot: cannot access local variable 'targetPos' where it is not associated with a value
+Traceback (most recent call last):
+  File "/tmp/game#3#76540fb5-99f4-4a28-9c3b-7eccb5cf4cf2-NO9oB3/team#Polypythons.pyz/main.py", line 225, in serve
+    output = strategy.decide_moves(possible_moves, game_state)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/tmp/game#3#76540fb5-99f4-4a28-9c3b-7eccb5cf4cf2-NO9oB3/team#Polypythons.pyz/strategy/HumanStrat.py", line 66, in decide_moves
+    distance = abs(m.destination.x - targetPos.x) + abs(
+                                     ^^^^^^^^^
+UnboundLocalError: cannot access local variable 'targetPos' where it is not associated with a value
+Something went wrong running your bot: cannot access local variable 'targetPos' where it is not associated with a value
+Traceback (most recent call last):
+  File "/tmp/game#3#76540fb5-99f4-4a28-9c3b-7eccb5cf4cf2-NO9oB3/team#Polypythons.pyz/main.py", line 225, in serve
+    output = strategy.decide_moves(possible_moves, game_state)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/tmp/game#3#76540fb5-99f4-4a28-9c3b-7eccb5cf4cf2-NO9oB3/team#Polypythons.pyz/strategy/HumanStrat.py", line 66, in decide_moves
+    distance = abs(m.destination.x - targetPos.x) + abs(
+                                     ^^^^^^^^^
+UnboundLocalError: cannot access local variable 'targetPos' where it is not associated with a value
+
+		

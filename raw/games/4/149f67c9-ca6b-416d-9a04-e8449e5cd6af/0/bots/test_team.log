@@ -1,0 +1,291 @@
+---- OUTPUT (stdout) ----
+		Connecting to server on port 9001...
+Connected to server on port 9001
+HUMAN: TURN 2
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=52, y=51), is_zombie=False, class_type=<CharacterClassType.MEDIC: 'MEDIC'>, health=2, is_stunned=False)
+HUMAN: TURN 4
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=54, y=52), is_zombie=False, class_type=<CharacterClassType.MEDIC: 'MEDIC'>, health=2, is_stunned=False)
+HUMAN: TURN 6
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=57, y=52), is_zombie=False, class_type=<CharacterClassType.MEDIC: 'MEDIC'>, health=2, is_stunned=False)
+HUMAN: TURN 8
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=57, y=55), is_zombie=False, class_type=<CharacterClassType.MEDIC: 'MEDIC'>, health=2, is_stunned=False)
+HUMAN: TURN 10
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=57, y=57), is_zombie=False, class_type=<CharacterClassType.MEDIC: 'MEDIC'>, health=2, is_stunned=False)
+HUMAN: TURN 12
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=57, y=57), is_zombie=False, class_type=<CharacterClassType.MEDIC: 'MEDIC'>, health=2, is_stunned=False)
+HUMAN: TURN 14
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=58, y=59), is_zombie=False, class_type=<CharacterClassType.MEDIC: 'MEDIC'>, health=2, is_stunned=False)
+HUMAN: TURN 16
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=58, y=62), is_zombie=False, class_type=<CharacterClassType.MEDIC: 'MEDIC'>, health=2, is_stunned=False)
+HUMAN: TURN 18
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=58, y=65), is_zombie=False, class_type=<CharacterClassType.MEDIC: 'MEDIC'>, health=2, is_stunned=False)
+HUMAN: TURN 20
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=61, y=65), is_zombie=False, class_type=<CharacterClassType.MEDIC: 'MEDIC'>, health=2, is_stunned=False)
+HUMAN: TURN 22
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=64, y=65), is_zombie=False, class_type=<CharacterClassType.MEDIC: 'MEDIC'>, health=2, is_stunned=False)
+HUMAN: TURN 24
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=67, y=65), is_zombie=False, class_type=<CharacterClassType.MEDIC: 'MEDIC'>, health=2, is_stunned=False)
+HUMAN: TURN 26
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=69, y=66), is_zombie=False, class_type=<CharacterClassType.MEDIC: 'MEDIC'>, health=2, is_stunned=False)
+HUMAN: TURN 28
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=70, y=68), is_zombie=False, class_type=<CharacterClassType.MEDIC: 'MEDIC'>, health=2, is_stunned=False)
+HUMAN: TURN 30
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=71, y=70), is_zombie=False, class_type=<CharacterClassType.MEDIC: 'MEDIC'>, health=2, is_stunned=False)
+HUMAN: TURN 32
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=71, y=73), is_zombie=False, class_type=<CharacterClassType.MEDIC: 'MEDIC'>, health=2, is_stunned=False)
+HUMAN: TURN 34
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=71, y=76), is_zombie=False, class_type=<CharacterClassType.MEDIC: 'MEDIC'>, health=2, is_stunned=False)
+HUMAN: TURN 36
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=71, y=79), is_zombie=False, class_type=<CharacterClassType.MEDIC: 'MEDIC'>, health=2, is_stunned=False)
+HUMAN: TURN 38
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=71, y=82), is_zombie=False, class_type=<CharacterClassType.MEDIC: 'MEDIC'>, health=2, is_stunned=False)
+HUMAN: TURN 40
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=72, y=84), is_zombie=False, class_type=<CharacterClassType.MEDIC: 'MEDIC'>, health=2, is_stunned=False)
+HUMAN: TURN 42
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=72, y=87), is_zombie=False, class_type=<CharacterClassType.MEDIC: 'MEDIC'>, health=2, is_stunned=False)
+HUMAN: TURN 44
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=75, y=87), is_zombie=False, class_type=<CharacterClassType.MEDIC: 'MEDIC'>, health=2, is_stunned=False)
+HUMAN: TURN 46
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=77, y=88), is_zombie=False, class_type=<CharacterClassType.MEDIC: 'MEDIC'>, health=2, is_stunned=False)
+HUMAN: TURN 48
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=78, y=90), is_zombie=False, class_type=<CharacterClassType.MEDIC: 'MEDIC'>, health=2, is_stunned=False)
+HUMAN: TURN 50
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=78, y=93), is_zombie=False, class_type=<CharacterClassType.MEDIC: 'MEDIC'>, health=2, is_stunned=False)
+HUMAN: TURN 52
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=79, y=95), is_zombie=False, class_type=<CharacterClassType.MEDIC: 'MEDIC'>, health=2, is_stunned=False)
+HUMAN: TURN 54
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=80, y=97), is_zombie=False, class_type=<CharacterClassType.MEDIC: 'MEDIC'>, health=2, is_stunned=False)
+HUMAN: TURN 56
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=80, y=97), is_zombie=False, class_type=<CharacterClassType.MEDIC: 'MEDIC'>, health=2, is_stunned=False)
+HUMAN: TURN 58
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=82, y=98), is_zombie=False, class_type=<CharacterClassType.MEDIC: 'MEDIC'>, health=2, is_stunned=False)
+HUMAN: TURN 60
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=85, y=98), is_zombie=False, class_type=<CharacterClassType.MEDIC: 'MEDIC'>, health=2, is_stunned=False)
+HUMAN: TURN 62
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=87, y=99), is_zombie=False, class_type=<CharacterClassType.MEDIC: 'MEDIC'>, health=2, is_stunned=False)
+HUMAN: TURN 64
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=90, y=99), is_zombie=False, class_type=<CharacterClassType.MEDIC: 'MEDIC'>, health=2, is_stunned=False)
+HUMAN: TURN 66
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=93, y=99), is_zombie=False, class_type=<CharacterClassType.MEDIC: 'MEDIC'>, health=2, is_stunned=False)
+HUMAN: TURN 68
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=96, y=99), is_zombie=False, class_type=<CharacterClassType.MEDIC: 'MEDIC'>, health=2, is_stunned=False)
+HUMAN: TURN 70
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=99, y=99), is_zombie=False, class_type=<CharacterClassType.MEDIC: 'MEDIC'>, health=2, is_stunned=False)
+HUMAN: TURN 72
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=99, y=99), is_zombie=False, class_type=<CharacterClassType.MEDIC: 'MEDIC'>, health=2, is_stunned=False)
+HUMAN: TURN 74
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=99, y=99), is_zombie=False, class_type=<CharacterClassType.MEDIC: 'MEDIC'>, health=2, is_stunned=False)
+HUMAN: TURN 76
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=99, y=99), is_zombie=False, class_type=<CharacterClassType.MEDIC: 'MEDIC'>, health=2, is_stunned=False)
+HUMAN: TURN 78
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=99, y=99), is_zombie=False, class_type=<CharacterClassType.MEDIC: 'MEDIC'>, health=2, is_stunned=False)
+HUMAN: TURN 80
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=99, y=99), is_zombie=False, class_type=<CharacterClassType.MEDIC: 'MEDIC'>, health=2, is_stunned=False)
+HUMAN: TURN 82
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=99, y=99), is_zombie=False, class_type=<CharacterClassType.MEDIC: 'MEDIC'>, health=2, is_stunned=False)
+HUMAN: TURN 84
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=99, y=99), is_zombie=False, class_type=<CharacterClassType.MEDIC: 'MEDIC'>, health=2, is_stunned=False)
+HUMAN: TURN 86
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=99, y=99), is_zombie=False, class_type=<CharacterClassType.MEDIC: 'MEDIC'>, health=2, is_stunned=False)
+HUMAN: TURN 88
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=99, y=99), is_zombie=False, class_type=<CharacterClassType.MEDIC: 'MEDIC'>, health=3, is_stunned=False)
+HUMAN: TURN 90
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=99, y=99), is_zombie=False, class_type=<CharacterClassType.MEDIC: 'MEDIC'>, health=3, is_stunned=False)
+HUMAN: TURN 92
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=99, y=99), is_zombie=False, class_type=<CharacterClassType.MEDIC: 'MEDIC'>, health=3, is_stunned=False)
+HUMAN: TURN 94
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=99, y=99), is_zombie=False, class_type=<CharacterClassType.MEDIC: 'MEDIC'>, health=3, is_stunned=False)
+HUMAN: TURN 96
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=99, y=99), is_zombie=False, class_type=<CharacterClassType.MEDIC: 'MEDIC'>, health=3, is_stunned=False)
+HUMAN: TURN 98
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=99, y=99), is_zombie=False, class_type=<CharacterClassType.MEDIC: 'MEDIC'>, health=3, is_stunned=False)
+HUMAN: TURN 100
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=99, y=99), is_zombie=False, class_type=<CharacterClassType.MEDIC: 'MEDIC'>, health=3, is_stunned=False)
+HUMAN: TURN 102
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=99, y=99), is_zombie=False, class_type=<CharacterClassType.MEDIC: 'MEDIC'>, health=3, is_stunned=False)
+HUMAN: TURN 104
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=99, y=99), is_zombie=False, class_type=<CharacterClassType.MEDIC: 'MEDIC'>, health=3, is_stunned=False)
+HUMAN: TURN 106
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=99, y=99), is_zombie=False, class_type=<CharacterClassType.MEDIC: 'MEDIC'>, health=3, is_stunned=False)
+HUMAN: TURN 108
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=96, y=99), is_zombie=False, class_type=<CharacterClassType.MEDIC: 'MEDIC'>, health=2, is_stunned=False)
+HUMAN: TURN 110
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=99, y=99), is_zombie=False, class_type=<CharacterClassType.MEDIC: 'MEDIC'>, health=1, is_stunned=False)
+HUMAN: TURN 112
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=99, y=96), is_zombie=True, class_type=<CharacterClassType.ZOMBIE: 'ZOMBIE'>, health=-1, is_stunned=False)
+HUMAN: TURN 114
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=96, y=96), is_zombie=True, class_type=<CharacterClassType.ZOMBIE: 'ZOMBIE'>, health=-1, is_stunned=False)
+HUMAN: TURN 116
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=99, y=96), is_zombie=True, class_type=<CharacterClassType.ZOMBIE: 'ZOMBIE'>, health=-1, is_stunned=False)
+HUMAN: TURN 118
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=94, y=96), is_zombie=True, class_type=<CharacterClassType.ZOMBIE: 'ZOMBIE'>, health=-1, is_stunned=False)
+HUMAN: TURN 120
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=92, y=93), is_zombie=True, class_type=<CharacterClassType.ZOMBIE: 'ZOMBIE'>, health=-1, is_stunned=False)
+HUMAN: TURN 122
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=88, y=94), is_zombie=True, class_type=<CharacterClassType.ZOMBIE: 'ZOMBIE'>, health=-1, is_stunned=False)
+HUMAN: TURN 124
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=88, y=89), is_zombie=True, class_type=<CharacterClassType.ZOMBIE: 'ZOMBIE'>, health=-1, is_stunned=False)
+HUMAN: TURN 126
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=88, y=84), is_zombie=True, class_type=<CharacterClassType.ZOMBIE: 'ZOMBIE'>, health=-1, is_stunned=False)
+HUMAN: TURN 128
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=90, y=82), is_zombie=True, class_type=<CharacterClassType.ZOMBIE: 'ZOMBIE'>, health=-1, is_stunned=False)
+HUMAN: TURN 130
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=91, y=78), is_zombie=True, class_type=<CharacterClassType.ZOMBIE: 'ZOMBIE'>, health=-1, is_stunned=False)
+HUMAN: TURN 132
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=91, y=73), is_zombie=True, class_type=<CharacterClassType.ZOMBIE: 'ZOMBIE'>, health=-1, is_stunned=False)
+HUMAN: TURN 134
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=91, y=68), is_zombie=True, class_type=<CharacterClassType.ZOMBIE: 'ZOMBIE'>, health=-1, is_stunned=False)
+HUMAN: TURN 136
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=91, y=63), is_zombie=True, class_type=<CharacterClassType.ZOMBIE: 'ZOMBIE'>, health=-1, is_stunned=False)
+HUMAN: TURN 138
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=92, y=59), is_zombie=True, class_type=<CharacterClassType.ZOMBIE: 'ZOMBIE'>, health=-1, is_stunned=False)
+HUMAN: TURN 140
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=93, y=55), is_zombie=True, class_type=<CharacterClassType.ZOMBIE: 'ZOMBIE'>, health=-1, is_stunned=False)
+HUMAN: TURN 142
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=92, y=51), is_zombie=True, class_type=<CharacterClassType.ZOMBIE: 'ZOMBIE'>, health=-1, is_stunned=False)
+HUMAN: TURN 144
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=94, y=49), is_zombie=True, class_type=<CharacterClassType.ZOMBIE: 'ZOMBIE'>, health=-1, is_stunned=False)
+HUMAN: TURN 146
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=95, y=45), is_zombie=True, class_type=<CharacterClassType.ZOMBIE: 'ZOMBIE'>, health=-1, is_stunned=False)
+HUMAN: TURN 148
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=97, y=42), is_zombie=True, class_type=<CharacterClassType.ZOMBIE: 'ZOMBIE'>, health=-1, is_stunned=False)
+HUMAN: TURN 150
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=97, y=37), is_zombie=True, class_type=<CharacterClassType.ZOMBIE: 'ZOMBIE'>, health=-1, is_stunned=False)
+HUMAN: TURN 152
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=97, y=32), is_zombie=True, class_type=<CharacterClassType.ZOMBIE: 'ZOMBIE'>, health=-1, is_stunned=False)
+HUMAN: TURN 154
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=96, y=28), is_zombie=True, class_type=<CharacterClassType.ZOMBIE: 'ZOMBIE'>, health=-1, is_stunned=False)
+HUMAN: TURN 156
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=98, y=25), is_zombie=True, class_type=<CharacterClassType.ZOMBIE: 'ZOMBIE'>, health=-1, is_stunned=False)
+HUMAN: TURN 158
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=95, y=23), is_zombie=True, class_type=<CharacterClassType.ZOMBIE: 'ZOMBIE'>, health=-1, is_stunned=False)
+HUMAN: TURN 160
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=90, y=23), is_zombie=True, class_type=<CharacterClassType.ZOMBIE: 'ZOMBIE'>, health=-1, is_stunned=False)
+HUMAN: TURN 162
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=86, y=22), is_zombie=True, class_type=<CharacterClassType.ZOMBIE: 'ZOMBIE'>, health=-1, is_stunned=False)
+HUMAN: TURN 164
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=82, y=22), is_zombie=True, class_type=<CharacterClassType.ZOMBIE: 'ZOMBIE'>, health=-1, is_stunned=False)
+HUMAN: TURN 166
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=81, y=22), is_zombie=True, class_type=<CharacterClassType.ZOMBIE: 'ZOMBIE'>, health=-1, is_stunned=False)
+HUMAN: TURN 168
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=77, y=23), is_zombie=True, class_type=<CharacterClassType.ZOMBIE: 'ZOMBIE'>, health=-1, is_stunned=False)
+HUMAN: TURN 170
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=76, y=22), is_zombie=True, class_type=<CharacterClassType.ZOMBIE: 'ZOMBIE'>, health=-1, is_stunned=False)
+HUMAN: TURN 172
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=75, y=21), is_zombie=True, class_type=<CharacterClassType.ZOMBIE: 'ZOMBIE'>, health=-1, is_stunned=False)
+HUMAN: TURN 174
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=75, y=21), is_zombie=True, class_type=<CharacterClassType.ZOMBIE: 'ZOMBIE'>, health=-1, is_stunned=False)
+HUMAN: TURN 176
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=75, y=21), is_zombie=True, class_type=<CharacterClassType.ZOMBIE: 'ZOMBIE'>, health=-1, is_stunned=False)
+HUMAN: TURN 178
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=71, y=22), is_zombie=True, class_type=<CharacterClassType.ZOMBIE: 'ZOMBIE'>, health=-1, is_stunned=False)
+HUMAN: TURN 180
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=66, y=22), is_zombie=True, class_type=<CharacterClassType.ZOMBIE: 'ZOMBIE'>, health=-1, is_stunned=False)
+HUMAN: TURN 182
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=61, y=22), is_zombie=True, class_type=<CharacterClassType.ZOMBIE: 'ZOMBIE'>, health=-1, is_stunned=False)
+HUMAN: TURN 184
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=56, y=22), is_zombie=True, class_type=<CharacterClassType.ZOMBIE: 'ZOMBIE'>, health=-1, is_stunned=False)
+HUMAN: TURN 186
+Terrain(id='(96, 52)', position=Position(x=96, y=52), health=3, can_attack_through=False, type=<TerrainType.WALL: 'WALL'>)
+Character(id='22', position=Position(x=51, y=22), is_zombie=True, class_type=<CharacterClassType.ZOMBIE: 'ZOMBIE'>, health=-1, is_stunned=False)
+
+Your bot had no errors.
+
+Finished game on turn 187 with 0 humans and 25 zombies.
+Score: 187-113 (H-Z). You were the humans.
+
+		---- ERRORS (stderr) ----
+		
+		

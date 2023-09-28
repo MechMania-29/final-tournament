@@ -1,0 +1,23 @@
+---- OUTPUT (stdout) ----
+		Connecting to server on port 9001...
+Connected to server on port 9001
+
+Your bot had 1 errors:
+$An error occurred handling input of human player on turn 34 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+
+Finished game on turn 81 with 0 humans and 25 zombies.
+Score: 81-219 (H-Z). You were the humans.
+
+		---- ERRORS (stderr) ----
+		Something went wrong running your bot: cannot access local variable 'targetPos' where it is not associated with a value
+Traceback (most recent call last):
+  File "/tmp/game#2#a0a513b3-c6ff-4dfe-918b-8eb657d70c91-SeanJg/team#Polypythons.pyz/main.py", line 225, in serve
+    output = strategy.decide_moves(possible_moves, game_state)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/tmp/game#2#a0a513b3-c6ff-4dfe-918b-8eb657d70c91-SeanJg/team#Polypythons.pyz/strategy/HumanStrat.py", line 66, in decide_moves
+    distance = abs(m.destination.x - targetPos.x) + abs(
+                                     ^^^^^^^^^
+UnboundLocalError: cannot access local variable 'targetPos' where it is not associated with a value
+
+		

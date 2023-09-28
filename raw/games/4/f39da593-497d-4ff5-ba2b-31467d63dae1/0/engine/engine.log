@@ -1,0 +1,194 @@
+---- OUTPUT (stdout) ----
+		Loading map...
+Connecting clients...
+Running game...
+Game finished on turn 200 with 20 humans and 5 zombies, 300-0 (H-Z)
+Writing to `gamelog.json`...
+Finished
+
+		---- ERRORS (stderr) ----
+		Failed to connect to port 9002, java.net.SocketTimeoutException: Accept timed out
+An error occurred handling input of zombie player on turn 1 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 1 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 3 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 3 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 5 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 5 during MOVE phase:
+java.lang.RuntimeException: Failed to respond properly 5 times in a row, ignoring input from now on.
+
+THIS MEANS YOUR BOT IS MOST LIKELY NOT RUNNING OR YOU ARE NOT RETURNING PROPERLY!
+An error occurred handling input of human player on turn 34 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 36 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 38 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 40 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 42 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 44 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 46 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 48 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 50 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 52 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 54 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 56 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 58 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 60 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 62 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 64 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 66 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 68 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 70 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 72 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 74 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 76 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 78 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 80 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 82 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 84 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 86 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 88 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 90 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 92 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 94 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 96 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 98 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 100 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 102 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 104 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 106 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 108 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 110 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 112 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 114 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 116 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 118 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 120 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 122 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 124 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 126 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 128 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 130 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 132 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 134 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 136 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 138 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 140 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 142 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 144 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 146 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 148 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 150 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 152 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 154 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 156 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 158 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 160 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 162 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 164 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 166 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 168 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 170 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 172 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 174 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 176 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 178 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 180 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 182 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 184 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 186 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 188 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 190 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 192 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 194 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 196 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 198 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 200 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+
+		

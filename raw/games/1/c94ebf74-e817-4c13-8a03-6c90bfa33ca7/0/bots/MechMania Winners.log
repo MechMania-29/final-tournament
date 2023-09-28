@@ -1,0 +1,12 @@
+---- OUTPUT (stdout) ----
+		Connecting to server on port 9002...
+Connected to server on port 9002
+
+Your bot had no errors.
+
+Finished game on turn 200 with 2 humans and 23 zombies.
+Score: 210-90 (H-Z). You were the zombies.
+
+		---- ERRORS (stderr) ----
+		
+		

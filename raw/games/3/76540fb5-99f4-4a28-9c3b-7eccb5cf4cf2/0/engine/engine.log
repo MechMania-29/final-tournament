@@ -1,0 +1,27 @@
+---- OUTPUT (stdout) ----
+		Loading map...
+Connecting clients...
+Running game...
+Game finished on turn 49 with 0 humans and 25 zombies, 49-251 (H-Z)
+Writing to `gamelog.json`...
+Finished
+
+		---- ERRORS (stderr) ----
+		An error occurred handling input of human player on turn 34 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 36 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 38 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 40 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 42 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 44 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 46 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 48 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+
+		

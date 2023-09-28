@@ -1,0 +1,25 @@
+---- OUTPUT (stdout) ----
+		Loading map...
+Connecting clients...
+Running game...
+Game finished on turn 200 with 20 humans and 5 zombies, 300-0 (H-Z)
+Writing to `gamelog.json`...
+Finished
+
+		---- ERRORS (stderr) ----
+		An error occurred handling input of zombie player on turn 21 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 21 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 23 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 23 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 25 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 25 during MOVE phase:
+java.lang.RuntimeException: Failed to respond properly 5 times in a row, ignoring input from now on.
+
+THIS MEANS YOUR BOT IS MOST LIKELY NOT RUNNING OR YOU ARE NOT RETURNING PROPERLY!
+
+		
