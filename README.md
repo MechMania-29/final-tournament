@@ -6,7 +6,7 @@
 
 ---
 
-This repository contains games from the final tournament.
+This repository contains games from the final tournament. Below is a list of the games and their results.
 
 # 391Survivors vs SEND DUDES
 
